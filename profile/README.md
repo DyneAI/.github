@@ -1,7 +1,7 @@
 # DyneAI
 
 Welcome to **DyneAI** – Pioneering the future of AI and innovation.  
-We are a small but ambitious team working on cutting-edge artificial intelligence projects to solve real-world problems and unlock new possibilities.  
+We are a small team working on cutting-edge artificial intelligence projects to solve real-world problems and unlock new possibilities.  
 
 
 ## 🌟 Our Vision
